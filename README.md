@@ -11,7 +11,7 @@ experiments on xss attacks
 
 ## Level 1 Hello, world of XSS
 1. To see the source of the application you can right-click on the frame and choose View Frame Source from the context menu or use your browser's developer tools to inspect network traffic.
-2. What happens when you enter a presentational tag such as <h1>?
+2. What happens when you enter a presentational tag such as `<h1>`?
 3. Alright, one last hint: <script> ... alert ...
 
 ## Level 2 Persistence is key
