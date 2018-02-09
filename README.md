@@ -40,4 +40,4 @@ experiments on xss attacks
 1. See how the value of the location fragment (after `#`) influences the URL of the loaded script.
 2. Is the security check on the gadget URL really foolproof?
 3. Sometimes when I'm frustrated, I feel like screaming...
-4. If you can't easily host your own evil JS file, see if google.com/jsapi?callback=foo will help you here.
+4. If you can't easily host your own evil JS file, see if https://google.com/jsapi?callback=foo will help you here.
